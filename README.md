@@ -5,3 +5,6 @@ Open up PHPMyAdmin and copy/paste the files into your essentialmode database.
 Requires esx_shops for this to work.
 
 Please ensure that you backup any databases first before making any changes at all.
+
+# REQUIREMENTS
+<a href="https://github.com/ESX-Org/esx_shops">esx_shops</a>
